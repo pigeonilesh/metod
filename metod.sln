@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metod1", "metod1\metod1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metod2", "metod2\metod2.csproj", "{B948D0B1-E0D3-4D88-ADEC-B46CE7CCCDBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metod3", "metod3\metod3.csproj", "{0A010E6D-110A-44B0-98C4-4E6E068468BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B948D0B1-E0D3-4D88-ADEC-B46CE7CCCDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B948D0B1-E0D3-4D88-ADEC-B46CE7CCCDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B948D0B1-E0D3-4D88-ADEC-B46CE7CCCDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A010E6D-110A-44B0-98C4-4E6E068468BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A010E6D-110A-44B0-98C4-4E6E068468BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A010E6D-110A-44B0-98C4-4E6E068468BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A010E6D-110A-44B0-98C4-4E6E068468BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
