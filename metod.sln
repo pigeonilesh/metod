@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metod2", "metod2\metod2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metod3", "metod3\metod3.csproj", "{0A010E6D-110A-44B0-98C4-4E6E068468BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr1", "pr1\pr1.csproj", "{D8876BCF-72F7-411C-9592-474A6B7FA1C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr2", "pr2\pr2.csproj", "{3B6860B1-8FD5-48EE-AE65-435C6FD270CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{0A010E6D-110A-44B0-98C4-4E6E068468BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A010E6D-110A-44B0-98C4-4E6E068468BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A010E6D-110A-44B0-98C4-4E6E068468BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8876BCF-72F7-411C-9592-474A6B7FA1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8876BCF-72F7-411C-9592-474A6B7FA1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8876BCF-72F7-411C-9592-474A6B7FA1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8876BCF-72F7-411C-9592-474A6B7FA1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6860B1-8FD5-48EE-AE65-435C6FD270CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6860B1-8FD5-48EE-AE65-435C6FD270CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6860B1-8FD5-48EE-AE65-435C6FD270CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6860B1-8FD5-48EE-AE65-435C6FD270CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
